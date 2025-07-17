@@ -7,7 +7,7 @@ import pro6 from "../../Assets/Projects/pro6.jpg";
 import pro3 from "../../Assets/Projects/pro3.jpg";
 import pro1 from "../../Assets/Projects/project1.png";
 import pro5 from "../../Assets/Projects/pro5.jpg";
-import pro2 from "../../Assets/Projects/pro2.jpg";
+import pro2 from "../../Assets/Projects/fileshare.png";
 
 function Projects() {
   return (
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={pro2}
               isBlog={false}
-              title="Hotel Mangement System"
-              ghLink="https://github.com/Lavraj15/Hotel-management-system"
-              description="A simple desktop application built using Python Tkinter for managing hotel reservations. Add guest details, Select room type and duration of stay, Save booking info to a MySQL database "
-             
+              title="File Sharing System (using Python and Flask)"
+              ghLink="https://github.com/Lavraj15/File-sharing-site-with-Python-using-Flask-master"
+              description="A secure web-based file sharing system using Python and Flask, allowing users to upload, download, and manage files over a local or hosted server."
+              demoLink="https://youtu.be/m-IhJjqymrc"
             />
           </Col>
 
