@@ -51,7 +51,7 @@ function Projects() {
               isBlog={false}
               title="Campus Event Management System"
               description="I developed a centralized College event management portal that enables event creation, student registration, and participation tracking. The system includes role-based access control for admins, organizers, and students to ensure a secure and well-defined workflow. Additionally, I designed an interactive dashboard with real-time updates, automated notifications, and streamlined tools to manage events efficiently."
-              // ghLink="https://github.com/Lavraj15/chat-app-react-nodejs-master"
+              ghLink="https://github.com/Lavraj15/College-Event-Management-Portal"
               demoLink="https://campus-event-management-tau.vercel.app/"
             />
           </Col>
